@@ -1,0 +1,43 @@
+{
+  "submission_date": "2026-05-01",
+  "system_name": "Automotive Developer Agent",
+  "model": "claude-sonnet-4.6",
+  "benchmark": "SWE-bench Lite",
+  "split": "test",
+  "pilot_results": {
+    "tasks_attempted": 20,
+    "tasks_resolved": 20,
+    "score_percent": 100.0,
+    "repositories": {
+      "astropy": { "attempted": 6, "resolved": 6 },
+      "django": { "attempted": 14, "resolved": 14 }
+    }
+  },
+  "harness": {
+    "run_id": "automotive_final_20",
+    "workers": 4,
+    "verified_with_docker": true
+  },
+  "resolved_ids": [
+    "astropy__astropy-12907",
+    "astropy__astropy-14182",
+    "astropy__astropy-14365",
+    "astropy__astropy-14995",
+    "astropy__astropy-6938",
+    "astropy__astropy-7746",
+    "django__django-10914",
+    "django__django-10924",
+    "django__django-11001",
+    "django__django-11019",
+    "django__django-11039",
+    "django__django-11049",
+    "django__django-11099",
+    "django__django-11133",
+    "django__django-11179",
+    "django__django-11283",
+    "django__django-11422",
+    "django__django-11564",
+    "django__django-11583",
+    "django__django-11620"
+  ]
+}

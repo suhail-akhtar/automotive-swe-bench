@@ -1,0 +1,15 @@
+info:
+  name: "Automotive Developer Agent"
+  site: "https://github.com/suhail-akhtar/automotive-swe-bench"
+  report: "https://github.com/suhail-akhtar/automotive-swe-bench"
+  authors: "Suhail Akhtar"
+  logo: ""
+tags:
+  checked: false
+  model:
+  - claude-sonnet-4-5
+  org: "Automotive"
+  os_model: false
+  os_system: false
+  system:
+    attempts: "1"
